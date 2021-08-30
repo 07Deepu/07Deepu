@@ -5,7 +5,7 @@
 
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=07Deepu.laxmena)](https://github.com/07Deepu) [![GitHub followers](https://img.shields.io/github/followers/07Deepu.svg?style=social&label=Follow)](https://github.com/07Deepu?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=07Deepu.deepu)](https://github.com/07Deepu) [![GitHub followers](https://img.shields.io/github/followers/07Deepu.svg?style=social&label=Follow)](https://github.com/07Deepu?tab=followers)
 
 I'm Deepu Sahoo! 
 - <i>Currently:</i> Working as  a Freelancer Web Developer. 
